@@ -1,0 +1,10 @@
+__pycache__/
+*/__pycache__/
+*.psproj
+*.pyc
+.vscode/
+logs/
+webhook.json
+config.yml
+*~
+\#*\#
