@@ -1,6 +1,6 @@
 # Exportovanie dát
 
-Služba na exportovanie údajov z databázy do formátu CSV. Základná adresa je `/api/export/...` a všetky volania používajú metódu GET.
+Služba na exportovanie údajov z databázy do formátu CSV, ktorý obsahuje tabuľku s požadovanými údajmi. Základná adresa je `/api/export/...` a všetky volania používajú metódu GET.
 
 ## Plný export (GET) → csv
 

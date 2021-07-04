@@ -1,6 +1,6 @@
 # Exporting data
 
-Service for exporting data from the database as CSV files. Base address is `/api/export/...`, and all API calls use GET.
+Service for exporting data from the database as a CSV file containing the requested table. Base address is `/api/export/...`, and all API calls use GET.
 
 ## Full export (GET) → csv
 
